@@ -1,0 +1,38 @@
+{
+  "name": "anthropology_culture_and_personality_structure",
+  "version": "1.0.0",
+  "description": "web page for learning about basic personality and modal personality structures w/ questions",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jahopp23/anthropology_culture_personality_structure.git"
+  },
+  "keywords": [
+    "anthropology",
+    "personality",
+    "culture",
+    "nodejs",
+    "now",
+    "express",
+    "html",
+    "css",
+    "education",
+    "psychology"
+  ],
+  "author": "John A. Hopper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jahopp23/anthropology_culture_personality_structure/issues"
+  },
+  "homepage": "https://github.com/jahopp23/anthropology_culture_personality_structure#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.0",
+    "jquery": "^3.3.1",
+    "now": "^11.1.7",
+    "now-cli": "0.0.0",
+    "popper.js": "^1.14.3"
+  }
+}
